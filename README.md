@@ -1,9 +1,9 @@
 <h1 align="center">
 Themes Vuejs&Vuetify
 </h1>
-<div align="center">
-  <img alt="Frontend" src="./darklight.png" width="100%">
-</div>
+<h1 align="center">
+  <img alt="Frontend" src="darklight.png" width="60%">
+</h1>
 
 <h4 align="center">
   Vuetify Theme
@@ -20,12 +20,10 @@ Themes Vuejs&Vuetify
 
 <br>
 
-
-
-<div align="center">
-  <img alt="Frontend" src="./animation.gif" width="70%">
-</div>
-
+<h1 align="center">
+  <img align="center" alt="Frontend" src="animation.gif" width="90%">
+ </h1>
+ 
 ## 🛠 Technologies
 
 This project uses these technologies:
